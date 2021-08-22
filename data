@@ -1,0 +1,10 @@
+steps
+1. create new project coder's_kitchen
+2. create directory name as model
+3. create python module name as food.py
+4. create python class Food
+5. create table for food
+6. create foodview to perform db related operation
+7. create foodtemplate to perform operation
+8. create customer model
+9. create customer table
